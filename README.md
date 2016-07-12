@@ -1,7 +1,7 @@
 curso-python-avanzado
 =====================
 
-Repo para el desarrollo colaborativo del curso de Python Avanzado de la OSL
+#Repo para el desarrollo colaborativo del curso de Python Avanzado de la OSL
 
 ##Orden de los módulos
 
